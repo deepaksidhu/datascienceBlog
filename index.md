@@ -7,7 +7,7 @@
 
 Teens these days are swarmed up with too much information they see on different medias. Often these information influences and makes up the norm of how they think and process situations.  As a consequence of too much information overload, they usually struggle to pick one option out of many good and bad alternatives. Most of their instincts in decision making are influenced by the choices made by their closest friends. But even with this, the choices made by the closest friends are quite varying and diverse. Leaving the teens with the dilemma of hab=ving no clue what to pick? This blog post will inform teens on how to make better and confident choices based on the data science concept of ensemble methods for classification. They will feel more in control and assured of the future choices they will make, and reduce the indecisiveness they experience.
 
-<img src="Decision-Making.jpg" width="400" height="400">
+<img src="http://meritcd.com/blogs/wp-content/uploads/2014/04/Decision-Making.jpg" width="400" height="400">
 
 [Source](http://meritcd.com/blogs/improve-your-decision-making-improve-your-leadership-2/)
 
