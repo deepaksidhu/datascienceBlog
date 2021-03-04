@@ -3,7 +3,6 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------
 **Motivation:**
 -----------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------
 
 Teens these days are swarmed up with too much information they see on different medias. Often these information influences and makes up the norm of how they think and process situations.  As a consequence of too much information overload, they usually struggle to pick one option out of many good and bad alternatives. Most of their instincts in decision making are influenced by the choices made by their closest friends. But even with this, the choices made by the closest friends are quite varying and diverse. Leaving the teens with the dilemma of hab=ving no clue what to pick? This blog post will inform teens on how to make better and confident choices based on the data science concept of ensemble methods for classification. They will feel more in control and assured of the future choices they will make, and reduce the indecisiveness they experience.
 
@@ -14,7 +13,7 @@ Teens these days are swarmed up with too much information they see on different 
 
 **Body:**
 -----------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------
+
 Often you are presented with a lot of options, for instance your alarm wakes you up in the morning, you are immediately presented with the choice of whether to sleep more or to get up and get ready for school. Another common situation could be you are in school, and you could either skip class or not (I advise you not to). When you get back home, you can either decide to do your homework and study or play your favorite computer game, which is definitely more exciting. Just based on these few examples, you are presented with choices at every turn. It is often a hard task to deliberate all the options and choose the one that is best for you.
 
 The idea of the data science concept, ensemble, actually helps you make the best possible decision for your purposes. I know I am speaking of some technical jargon with the use of the word ensemble, and what does it mean to be best possible option? 
@@ -25,7 +24,7 @@ Consider the situation when you're family is going for a picnic, there is going 
 In order to understand this concept better, I will talk about one of the prevelant dilemmas among teens these days, which is when they are confronted with the decision of choosing whether to buy a *Playstation 5* or *XBOX X*.
 
 
-<img src="xbox.jpg" width="400" height="400">
+<img src="https://www.essentiallysports.com/which-one-to-buy-xbox-series-x-vs-playstation-5-microsoft-sony-esports-news-2020/" width="400" height="400">
 
 [Source](https://www.essentiallysports.com/which-one-to-buy-xbox-series-x-vs-playstation-5-microsoft-sony-esports-news-2020/)
 
@@ -48,7 +47,6 @@ To get an idea of why considering an ensemble of choices works better than just 
 We can see from the graphic that If we only consider the opinion of one our friend, or more so just our own opinion we are likely to make a mistake. But if we consider the collection of opinions and do majority voting we reduce the chances of making a mistake for which platform to purchase. This is based on the hypothetical that we know what the ideal platform of choice is, represented by the check mark. More over the idea of ensemble works well, if the opinion of our friends are distinct enough.
 
 **Conclusion:**
------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------
 
 The idea for  making choices based on an ensemble method of classification can be extend to other choices that you are having a difficult time deliberating on. These approach will help you make better informed choices and decisions. Furhtermore, once you go and study data science you will appreciate it and will have a head start compared to others.
