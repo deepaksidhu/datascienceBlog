@@ -24,9 +24,9 @@ Consider the situation when you're family is going for a picnic, there is going 
 In order to understand this concept better, I will talk about one of the prevelant dilemmas among teens these days, which is when they are confronted with the decision of choosing whether to buy a *Playstation 5* or *XBOX X*.
 
 
-<img src="https://cdn.vox-cdn.com/thumbor/XMqSAUQJXb2YvHqdnbOOpqFkg1U=/0x0:924x616/1200x800/filters:focal(389x235:535x381)/cdn.vox-cdn.com/uploads/chorus_image/image/66520393/ps5vsxbx.0.jpg" width="400" height="400">
+<img src="https://cdn.vox-cdn.com/thumbor/XMqSAUQJXb2YvHqdnbOOpqFkg1U=/0x0:924x616/1200x800/filters:focal(389x235:535x381)/cdn.vox-cdn.com/uploads/chorus_image/image/66520393/ps5vsxbx.0.jpg" width="400" height="300">
 
-[Source](https://www.essentiallysports.com/which-one-to-buy-xbox-series-x-vs-playstation-5-microsoft-sony-esports-news-2020/)
+[Source](https://cdn.vox-cdn.com/thumbor/XMqSAUQJXb2YvHqdnbOOpqFkg1U=/0x0:924x616/1200x800/filters:focal(389x235:535x381)/cdn.vox-cdn.com/uploads/chorus_image/image/66520393/ps5vsxbx.0.jpg)
 
 
 Teens these days are extremely confused on whether they should avail a Playstation 5 or Xbox X. Most of them will do their research, compare the specifications and look at video reviews, but still have a hard time of coming up up with a conclusive decision. Often when they are torn with the options, they would ask the opinion of their friends but the group of friends have a varying degree of preferences, which makes the matter worse.
