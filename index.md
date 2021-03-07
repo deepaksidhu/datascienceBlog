@@ -8,7 +8,7 @@
 
 Teenagers are exposed to vast amount of information they see on different medias. Often these information influences and makes up the norm of how they think and process situations.  As a consequence of information overload, they usually struggle to pick one option out of combination of good and bad alternatives. Most of their instincts in decision making are influenced by the opinion of their closest friends. However, the choices made by the friends are quite varying and diverse. Leaving teens with the dilemma of not knowing what to pick? This blog post will inform teens on how to make confident choices based on the data science concept of ensemble methods for classification. They will feel more in control and assured of the decisions they will make, and reduce the indecisiveness they experience.
 
-<img src="http://meritcd.com/blogs/improve-your-decision-making-improve-your-leadership-2/" width="400" height="400">
+<img src="http://meritcd.com/blogs/wp-content/uploads/2014/04/Decision-Making.jpg" width="400" height="400">
 
 [Source](http://meritcd.com/blogs/improve-your-decision-making-improve-your-leadership-2/)
 
@@ -25,10 +25,9 @@ Consider the situation when you're family is going for picnic, there is going to
 
 The majority choice in the collection corresponds the best option. In order to understand this concept better, I will talk about the dilemma among teens when they are confronted with the decision of buying either a *Playstation 5* or *XBOX X*.
 
+<img src="https://cdn.vox-cdn.com/thumbor/XMqSAUQJXb2YvHqdnbOOpqFkg1U=/0x0:924x616/1200x800/filters:focal(389x235:535x381)/cdn.vox-cdn.com/uploads/chorus_image/image/66520393/ps5vsxbx.0.jpg" width="400" height="300">
 
-<img src="https://www.essentiallysports.com/which-one-to-buy-xbox-series-x-vs-playstation-5-microsoft-sony-esports-news-2020/" width="400" height="400">
-
-[Source](https://www.essentiallysports.com/which-one-to-buy-xbox-series-x-vs-playstation-5-microsoft-sony-esports-news-2020/)
+[Source](https://cdn.vox-cdn.com/thumbor/XMqSAUQJXb2YvHqdnbOOpqFkg1U=/0x0:924x616/1200x800/filters:focal(389x235:535x381)/cdn.vox-cdn.com/uploads/chorus_image/image/66520393/ps5vsxbx.0.jpg)
 
 
 Teenagers are confused on whether they should buy a Playstation 5 or Xbox X. Most of them will do their research, compare the specifications and look at reviews, but still have a hard time deciding. When they are torn with the options, they would ask the opinion of their friends, but they often have varying degree of preferences, which makes matter worse.
